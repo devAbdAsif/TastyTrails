@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78284776026",
+    "project_id": "tasty-trails-afbdf",
+    "storage_bucket": "tasty-trails-afbdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78284776026:android:49b6a5f21536f98651ee63",
+        "android_client_info": {
+          "package_name": "com.example.tastytrails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78284776026-438s9bgocr8gli8gdrv0jmj3fb8n9qco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWoa58akANksq-H2F3w-jN85wTBJYnd3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78284776026-438s9bgocr8gli8gdrv0jmj3fb8n9qco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
